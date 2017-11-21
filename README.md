@@ -8,8 +8,7 @@ I will skip some of the classes if equivalent or similar courses are already par
 Some courses will also be taken out of order if I feel they compliment or supplement a current course I'm taking at university. 
 
 So far i have: 
--Skipped Introduction to Biology
--Skipped Principles of Chemistry
--Finished CS 1 - Python 1
--Begun CS 1 - Python 2
-
+* Skipped Introduction to Biology
+* Skipped Principles of Chemistry
+* Finished CS 1 - Python 1
+* Begun CS 1 - Python 2
