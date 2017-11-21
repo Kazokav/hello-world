@@ -12,4 +12,6 @@ So far i have:
 * Skipped Introduction to Biology
 * Skipped Principles of Chemistry
 * Finished CS 1 - Python 1
-* Begun CS 1 - Python 2
+* Started Learning How to Learn: Powerful mental tools to help you master tough subjects
+* Started CS 1 - Python 2
+
