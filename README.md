@@ -1,7 +1,8 @@
 # My online BSc. in Bioinformatics
-Part of my GitHub introduction
 I'm currently following Open Source Society University's "Path to a free self-taught education in Bioinformatics!"
+
 https://github.com/ossu/bioinformatics
+
 As part of this, I will track my own progress using GitHub. 
 
 I will skip some of the classes if equivalent or similar courses are already part of my studies. 
